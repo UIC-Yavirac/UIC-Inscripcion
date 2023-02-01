@@ -1,4 +1,4 @@
-package uic.inscripcion.feature.inscription;
+package uic.inscripcion.inscription;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
